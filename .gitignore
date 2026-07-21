@@ -50,5 +50,7 @@ _autosave-*
 Thumbs.db
 Desktop.ini
 .history/
-stimulator-backups/
+*-backups/
 
+*.kicad_prl
+_autosave-*
