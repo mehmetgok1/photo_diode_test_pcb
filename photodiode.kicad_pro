@@ -50,7 +50,23 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "border_display_style": 2,
+          "border_hatch_pitch": 0.5,
+          "corner_radius": 0.0,
+          "corner_smoothing": 0,
+          "fill_mode": 0,
+          "hatch_gap": 1.5,
+          "hatch_orientation": 0.0,
+          "hatch_smoothing_level": 0,
+          "hatch_smoothing_value": 0.1,
+          "hatch_thickness": 1.0,
+          "min_clearance": 0.5,
+          "min_island_area": 10.0,
+          "min_thickness": 0.25,
+          "pad_connection": 1,
+          "remove_islands": 0,
+          "thermal_relief_gap": 0.5,
+          "thermal_relief_spoke_width": 0.5
         }
       },
       "diff_pair_dimensions": [],
@@ -632,7 +648,7 @@
         "uuid": "9f27712c-94e7-4139-8ee0-597f1f779620"
       }
     ],
-    "used_designators": "#PWR52,#PWR60,#PWR63,#PWR66-67,#PWR71-77,Rup1,R3,R33-35,Rdown1,C3,C8,C14,C23,C55-56,Rmon2,Cmon2,Rfilter1,L3,Cout2,U1,D1,Ccap1,Rshort1",
+    "used_designators": "Rshort1,#PWR52,#PWR60,#PWR63,#PWR66-67,#PWR71-77,#PWR80-81,Rup1,R3,R33-35,Rdown1,C3,C8,C14,C23,C55-56,Cmon2,Rmon2,Rfilter1,L3,Cout2,Ccap1,D1,U1,U7",
     "variants": []
   },
   "sheets": [

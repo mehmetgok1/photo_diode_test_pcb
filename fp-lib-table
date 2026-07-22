@@ -1,4 +1,5 @@
 (fp_lib_table
 	(version 7)
 	(lib (name "footprints_TPS61390RTER") (type "KiCad") (uri "${KIPRJMOD}/libs/TPS61390RTER/KiCADv6/footprints.pretty") (options "") (descr ""))
+	(lib (name "footprints_OPA1S2385IDRCT") (type "KiCad") (uri "${KIPRJMOD}/libs/OPA1S2385IDRCT/KiCADv6/footprints.pretty") (options "") (descr ""))
 )
