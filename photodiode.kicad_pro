@@ -648,7 +648,7 @@
         "uuid": "9f27712c-94e7-4139-8ee0-597f1f779620"
       }
     ],
-    "used_designators": "Rshort1,Rdown1,Rfilter1,Cfilter1,Rprotect1,Ccap1,Rup1,Radj1,#PWR84,Cf1,Rsc1-2,Csh1,Rf1",
+    "used_designators": "J10,Csh1,Rsc1-2,Rf1,Cf1,#PWR84,Rup1,Ccap1,Rprotect1,Radj1,Cfilter1,Rfilter1,Rdown1,Rshort1",
     "variants": []
   },
   "sheets": [
